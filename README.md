@@ -27,7 +27,7 @@ I'm a novice coder, so the project is simple for now—but it's open-source and 
 
 ## Download & Use
 
-**[Download the latest version here](link to GitHub Releases or DMG file)**
+**[Download the latest version here](link to GitHub Releases or DMG file pending...)**
 
 Just drag and drop your `.srt` file into the app and it will:
 
