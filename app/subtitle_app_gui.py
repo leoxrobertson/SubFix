@@ -79,7 +79,7 @@ def create_window(settings):
     
     # Main layout
     layout = [
-        [sg.Text("Subtitle Toolkit", font=('Helvetica', 20))],
+        [sg.Text("SubFix", font=('Helvetica', 20))],  # Updated app name
         [sg.HorizontalSeparator()],
         
         [sg.Column(file_list)],
@@ -99,7 +99,7 @@ def create_window(settings):
          sg.Button("Exit", size=10)]
     ]
     
-    return sg.Window("Subtitle Toolkit", layout)
+    return sg.Window("SubFix", layout)  # Updated app name in the window title
 
 # ========================
 #      MAIN APP LOGIC
