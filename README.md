@@ -6,6 +6,13 @@ Created by an indie filmmaker tired of doing subtitle adjustments by hand, this 
 
 ---
 
+## 🛠 Install
+
+Clone the repo and run:
+
+```bash
+./install.sh
+
 ## Features
 
 - Adjust subtitle start/end times to match required timing ranges
