@@ -12,11 +12,13 @@ dependencies = [
     "PySimpleGUI",
     "pyspellchecker",
     "langdetect",
-    "deep-translator"
+    "deep-translator", 
+    "regex",
+    "pathlib",
 ]
 
 [project.scripts]
-subfix = "subfix.__main__:main"  
+subfix = "subfix.gui.__init__:launch_gui"
 
 [build-system]
 requires = ["setuptools>=61.0"]

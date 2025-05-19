@@ -1,5 +1,5 @@
 DEFAULT_SETTINGS = {
-    "theme": "DarkGrey5",
+    "theme": "DarkGrey13",
     "translation": {
         "target_lang": "es"
     },

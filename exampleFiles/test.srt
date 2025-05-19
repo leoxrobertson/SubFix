@@ -1,0 +1,50 @@
+1
+00:00:00,500 --> 00:00:02,000
+[Music] Once upon a time...
+
+2
+00:00:02,100 --> 00:00:04,000
+...there was a kingdom filled with [laughter].
+
+3
+00:00:04,100 --> 00:00:06,000
+[SIGHS] The people had grown tired of the noise.
+
+4
+00:00:06,100 --> 00:00:08,000
+"We can't take it anymore!" [Noise]
+
+5
+00:00:08,100 --> 00:00:10,000
+[door] They slammed the gate shut.
+
+6
+00:00:10,100 --> 00:00:12,000
+[Phone ringing] Hello?
+
+7
+00:00:12,100 --> 00:00:14,000
+[Robot] Welcome, user. (This should stay)
+
+8
+00:00:14,100 --> 00:00:16,000
+[John] Yes, I know who you are. (Also should stay)
+
+9
+00:00:16,100 --> 00:00:18,000
+[SPEAKER] Please exit the room.
+
+10
+00:00:18,100 --> 00:00:20,000
+
+11
+00:00:20,100 --> 00:00:22,000
+    \n
+
+12
+00:00:22,100 --> 00:00:24,000
+Just a normal subtitle block.
+
+13
+00:00:24,100 --> 00:00:26,000
+[applause] And they lived happily ever after.
