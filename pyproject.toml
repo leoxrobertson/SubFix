@@ -1,0 +1,23 @@
+[project]
+name = "subfix"
+version = "0.1.0"
+description = "Clean and fix subtitles"
+authors = [
+    { name = "Leo Robertson", email = "leo@email.com" },
+    {name = "Aleksander Malde", email = "malde.aleksander@gmail.com"}
+ ]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "PySimpleGUI",
+    "pyspellchecker",
+    "langdetect",
+    "deep-translator"
+]
+
+[project.scripts]
+subfix = "subfix.__main__:main"  
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
